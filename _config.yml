@@ -1,0 +1,44 @@
+# Build settings
+#markdown: redcarpet
+#highlighter: pygments
+plugins:
+#  - jemoji
+plugins: [jekyll-paginate]
+  
+# Site settings
+title: "Scrappy"
+description: > # this means to ignore newlines until "email:"
+  From the memoirs of Robert Vernon Johnston, Jr.
+
+email: rvj@dvjohnston.com
+#blog logo
+logo: "/assets/images/rvj.jpg"
+# blog cover
+cover: "/assets/images/b-17t.png"
+
+name: 'Robert V. Johnston'
+author: 'Robert V. Johnston'
+author_image: "/assets/images/rvj.jpg"
+
+paginate: 10
+
+url: "http://rvj.dvjohnston.com" # the base hostname & protocol for your site
+baseurl: ""
+
+
+
+# social icons and sharing options
+social:
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
