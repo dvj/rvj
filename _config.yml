@@ -22,9 +22,8 @@ author_image: "assets/images/rvj.jpg"
 
 paginate: 10
 
-url: "https://dvjohnston.com/rvj" # the base hostname & protocol for your site
-baseurl: ""
-
+url: "https://dvjohnston.com" # the base hostname & protocol for your site
+baseurl: "/rvj"
 
 
 # social icons and sharing options
