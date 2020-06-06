@@ -12,17 +12,17 @@ description: > # this means to ignore newlines until "email:"
 
 email: rvj@dvjohnston.com
 #blog logo
-logo: "/assets/images/rvj.jpg"
+logo: "assets/images/rvj.jpg"
 # blog cover
-cover: "/assets/images/b-17t.png"
+cover: "assets/images/b-17t.png"
 
 name: 'Robert V. Johnston'
 author: 'Robert V. Johnston'
-author_image: "/assets/images/rvj.jpg"
+author_image: "assets/images/rvj.jpg"
 
 paginate: 10
 
-url: "http://rvj.dvjohnston.com" # the base hostname & protocol for your site
+url: "https://dvjohnston.com/rvj" # the base hostname & protocol for your site
 baseurl: ""
 
 
